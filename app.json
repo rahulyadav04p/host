@@ -1,11 +1,9 @@
 {
- "name": "TG Files to Link",
- "description": "Telegram files to Direct link!!",
- "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "name": "x",
+ "description": "x",
+ "logo": "https://google.com",
  "keywords": [
-   "telegram",
-   "FiletoLinkBot",
-   "For ScreenShot Bot"
+   "xx"
   ],
  "repository": "https://github.com/TGExplore/TG-Files-to-Link",
  "env": {
